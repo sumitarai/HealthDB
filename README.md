@@ -19,6 +19,11 @@ add this file to git with double quote because the file name has space in betwee
    1 git status
    2 git pull
 
+   git branch created before started working on the project
+   1. git branch sumi - create a branch name sume
+   2. git branch - check what branches are there
+   3. git checkout sumi - switch to sumi branch
+
 
 ```
   
