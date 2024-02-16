@@ -7,3 +7,6 @@ Confirgure git - git config --global user.name "sxmxxxxxx"
 		git config --global user.email "sxmXXXXX@gmail.com"
 To make folder- mkdir project folder name
 To remove folder- rmdir project folder name
+
+What is powershell?
+What is command prompt?
