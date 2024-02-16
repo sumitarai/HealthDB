@@ -1,3 +1,9 @@
 I am practicing how I can open notepad using cmd prompt. 
 So, I simply type notepad in cmd command and hit enter which makes this notepad open. 
 Then, I could type and save in the folder that is the current HealthDB project in the GitHub.
+
+Install git and check version- git --version
+Confirgure git - git config --global user.name "sxmxxxxxx"
+		git config --global user.email "sxmXXXXX@gmail.com"
+To make folder- mkdir project folder name
+To remove folder- rmdir project folder name
